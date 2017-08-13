@@ -7,6 +7,8 @@ import {AppComponent} from './app.component';
 import {LoginComponent} from './login/login.component';
 
 import {AngularFireModule} from 'angularfire2';
+
+// New imports to update based on AngularFire2 version 4
 import {AngularFireDatabaseModule} from 'angularfire2/database';
 import {AngularFireAuthModule} from 'angularfire2/auth';
 
@@ -16,11 +18,9 @@ export const firebaseConfig = {
   authDomain: 'pruebalogin-9e7fb.firebaseapp.com',
   databaseURL: 'https://pruebalogin-9e7fb.firebaseio.com',
   projectId: 'pruebalogin-9e7fb',
-  storageBucket: '',
+  storageBucket: 'pruebalogin-9e7fb.appspot.com',
   messagingSenderId: '411092143385'
 };
-
-
 
 @NgModule({
   declarations: [
