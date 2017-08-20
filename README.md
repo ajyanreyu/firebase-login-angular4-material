@@ -1,3 +1,7 @@
+#travis-ci
+[![Build Status](https://travis-ci.org/ajyanreyu/firebase-login-angular4-material.svg?branch=master)](https://travis-ci.org/ajyanreyu/firebase-login-angular4-material)
+
+
 # PruebaFireBase
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
