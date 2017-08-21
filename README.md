@@ -1,4 +1,4 @@
-#travis-ci
+## Travis-ci
 [![Build Status](https://travis-ci.org/ajyanreyu/firebase-login-angular4-material.svg?branch=master)](https://travis-ci.org/ajyanreyu/firebase-login-angular4-material)
 
 
